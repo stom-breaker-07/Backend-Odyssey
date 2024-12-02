@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-02",
+  "version": "1.0.0",
+  "main": "11express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 11express.js"
+  },
+  "author": "Chinmay L",
+  "license": "ISC",
+  "description": "noting",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

@@ -1,0 +1,6 @@
+1) Initiate a js file 
+2) Open terminal and perform the following code bits
+  ->git init <It will initiate the package dot Json's file>
+  ->npm install --save-dev nodemon <Install Nodman if needed to make your browser interactive to your code>
+  ->npm install --save express  <The basic extinctions that help you to get the express js components to code>
+3) Change the package json and Launch Json which was in  .Vs Codefolder As per the given changes in the repo file.
